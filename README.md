@@ -90,9 +90,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Riya S Shajan: Creates a clean and user-friendly website design.
+- Devina Devanad: Makes sure the layout, colors, and buttons look great.
+
 
 ---
 Made with ❤️ at TinkerHub
