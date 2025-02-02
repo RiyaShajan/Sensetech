@@ -1,31 +1,30 @@
-# [Project Name] 🎯
+# SENSETECH 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## Health Monitor Website
+### Team Name: Nano Zillas
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Riya S Shajan - College of Engineering Pathanapuram
+- Member 2: Devina Devanand - College of Engineering Pathanapuram
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://sensetech.vercel.app/index.html
 
 ### Project Description
-[2-3 lines about what your project does]
+This health monitoring website tracks sedentary activities and offers recommendations to help you stay healthy while managing a sedentary work lifestyle.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+How stay healthy while managing a sedentary lifestyle?
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+A solution for maintaining a healthy lifestyle despite a sedentary work routine is a health monitoring website that tracks sedentary activities and provides personalized guidance for healthier habits.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- HTML, CSS, JavaScript
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
